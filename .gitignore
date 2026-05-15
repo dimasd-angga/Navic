@@ -11,6 +11,7 @@ captures
 .externalNativeBuild
 .cxx
 *.xcodeproj/*
+temp_auto_push.bat
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
 !*.xcodeproj/project.xcworkspace/
@@ -24,3 +25,5 @@ acknowledgements.json
 /gradle/gradle-daemon-jvm.properties
 prepare/
 *.mobileprovision
+.gitignore
+branch_structure.json
